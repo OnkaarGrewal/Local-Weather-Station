@@ -38,6 +38,7 @@ This project sits at the intersection of **engineering physics** and **aerospace
 
 ### Sensors
 <img width="453" height="350" alt="image" src="https://github.com/user-attachments/assets/ccd955d1-3bc3-4fcb-b115-38a0c3cdf8c2" />
+<img width="946" height="749" alt="image" src="https://github.com/user-attachments/assets/496d28f8-6b39-464c-b630-c9e934755678" />
 
 | Sensor | Measurement | Interface |
 |--------|-------------|-----------|
