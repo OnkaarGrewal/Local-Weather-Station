@@ -1,4 +1,4 @@
-# 🌤️ LocalWeatherStation
+# LocalWeatherStation
 
 > ** Project Status: In Development **
 
