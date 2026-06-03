@@ -5,6 +5,7 @@
 A compact, affordable, and portable weather station designed to collect real-time atmospheric data and provide hyperlocal weather predictions through a web dashboard. Built from scratch as a solo engineering project combining custom PCB design, 3D printed mechanical components, and a data-driven prediction platform.
 
 <img width="873" height="971" alt="image" src="https://github.com/user-attachments/assets/364c856d-d723-491f-8cca-c356e1b3c035" />
+<img width="693" height="677" alt="image" src="https://github.com/user-attachments/assets/bdf0b80a-53eb-4dbd-8e90-f0e1d0d6e11f" />
 
 ---
 
@@ -36,6 +37,8 @@ This project sits at the intersection of **engineering physics** and **aerospace
 ## 🔩 Hardware
 
 ### Sensors
+<img width="453" height="350" alt="image" src="https://github.com/user-attachments/assets/ccd955d1-3bc3-4fcb-b115-38a0c3cdf8c2" />
+
 | Sensor | Measurement | Interface |
 |--------|-------------|-----------|
 | BME280 | Temperature, Humidity, Pressure | I2C |
