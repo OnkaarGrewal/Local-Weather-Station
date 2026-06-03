@@ -4,6 +4,8 @@
 
 A compact, affordable, and portable weather station designed to collect real-time atmospheric data and provide hyperlocal weather predictions through a web dashboard. Built from scratch as a solo engineering project combining custom PCB design, 3D printed mechanical components, and a data-driven prediction platform.
 
+<img width="873" height="971" alt="image" src="https://github.com/user-attachments/assets/364c856d-d723-491f-8cca-c356e1b3c035" />
+
 ---
 
 ##  Project Overview
