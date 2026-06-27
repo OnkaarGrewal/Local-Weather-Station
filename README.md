@@ -23,10 +23,10 @@ This project sits at the intersection of **engineering physics** and **aerospace
 - [x] BME280 sensor mount — suspended tripod platform with airflow exposure
 - [x] Anemometer housing — dual bearing cup anemometer with rain roof
 - [x] Full assembly concept — louvered enclosure, transition piece, anemometer on top
-- [ ] Cup anemometer arms and cups — in progress
-- [ ] Wind direction vane — planned
+- [x] Cup anemometer arms and cups — adjusted design to compensate wind strength and replacements
+- [x] Wind direction vane — in progress
 - [ ] Rain gauge — planned
-- [ ] PCB design in KiCad — planned
+- [ ] PCB design in KiCad — in progress
 - [ ] Breadboard prototype — planned
 - [ ] Web dashboard — planned
 - [ ] Weather prediction algorithm — planned
